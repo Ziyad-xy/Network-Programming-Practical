@@ -2,4 +2,4 @@
 
 run server first from folder 'servere'
 
-then run client from folder 'client'
+then run client from folder 'cliente'
