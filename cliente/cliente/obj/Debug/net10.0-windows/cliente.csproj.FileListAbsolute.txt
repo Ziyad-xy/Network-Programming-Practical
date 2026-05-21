@@ -1,0 +1,16 @@
+C:\Users\EL10_gazy\source\repos\cliente\cliente\obj\Debug\net10.0-windows\cliente.Form1.resources
+C:\Users\EL10_gazy\source\repos\cliente\cliente\obj\Debug\net10.0-windows\cliente.csproj.GenerateResource.cache
+C:\Users\EL10_gazy\source\repos\cliente\cliente\obj\Debug\net10.0-windows\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL10_gazy\source\repos\cliente\cliente\obj\Debug\net10.0-windows\cliente.AssemblyInfoInputs.cache
+C:\Users\EL10_gazy\source\repos\cliente\cliente\obj\Debug\net10.0-windows\cliente.AssemblyInfo.cs
+C:\Users\EL10_gazy\source\repos\cliente\cliente\obj\Debug\net10.0-windows\cliente.csproj.CoreCompileInputs.cache
+C:\Users\EL10_gazy\source\repos\cliente\cliente\bin\Debug\net10.0-windows\cliente.exe
+C:\Users\EL10_gazy\source\repos\cliente\cliente\bin\Debug\net10.0-windows\cliente.deps.json
+C:\Users\EL10_gazy\source\repos\cliente\cliente\bin\Debug\net10.0-windows\cliente.runtimeconfig.json
+C:\Users\EL10_gazy\source\repos\cliente\cliente\bin\Debug\net10.0-windows\cliente.dll
+C:\Users\EL10_gazy\source\repos\cliente\cliente\bin\Debug\net10.0-windows\cliente.pdb
+C:\Users\EL10_gazy\source\repos\cliente\cliente\obj\Debug\net10.0-windows\cliente.dll
+C:\Users\EL10_gazy\source\repos\cliente\cliente\obj\Debug\net10.0-windows\refint\cliente.dll
+C:\Users\EL10_gazy\source\repos\cliente\cliente\obj\Debug\net10.0-windows\cliente.pdb
+C:\Users\EL10_gazy\source\repos\cliente\cliente\obj\Debug\net10.0-windows\cliente.genruntimeconfig.cache
+C:\Users\EL10_gazy\source\repos\cliente\cliente\obj\Debug\net10.0-windows\ref\cliente.dll
